@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-15T14:17:17 WIB" name="Suite" finished-at="2021-11-15T14:18:21 WIB" duration-ms="64064">
+    <groups>
+    </groups>
+    <test started-at="2021-11-15T14:17:17 WIB" name="Test" finished-at="2021-11-15T14:18:21 WIB" duration-ms="64064">
+      <class name="android_automation_mobile.LoginTest">
+        <test-method is-config="true" signature="successRegis()[pri:0, instance:android_automation_mobile.LoginTest@7adda9cc]" started-at="2021-11-15T14:17:17 WIB" name="successRegis" finished-at="2021-11-15T14:17:32 WIB" duration-ms="15235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successRegis -->
+        <test-method signature="invalidCredential()[pri:0, instance:android_automation_mobile.LoginTest@7adda9cc]" started-at="2021-11-15T14:17:32 WIB" name="invalidCredential" finished-at="2021-11-15T14:17:44 WIB" duration-ms="12144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredential -->
+        <test-method signature="invalidFormatEmail()[pri:0, instance:android_automation_mobile.LoginTest@7adda9cc]" started-at="2021-11-15T14:17:44 WIB" name="invalidFormatEmail" finished-at="2021-11-15T14:17:56 WIB" duration-ms="12194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidFormatEmail -->
+        <test-method signature="successLogin()[pri:0, instance:android_automation_mobile.LoginTest@7adda9cc]" started-at="2021-11-15T14:17:56 WIB" name="successLogin" finished-at="2021-11-15T14:18:09 WIB" duration-ms="13012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successLogin -->
+        <test-method is-config="true" signature="reset()[pri:0, instance:android_automation_mobile.LoginTest@7adda9cc]" started-at="2021-11-15T14:18:09 WIB" name="reset" finished-at="2021-11-15T14:18:21 WIB" duration-ms="11433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reset -->
+      </class> <!-- android_automation_mobile.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
